@@ -10,3 +10,5 @@ Note: This is a temporary version.
 #2021-1-27
 # Here we noticed R script and Python script to establish algorithms for Random Walk analysis.
 
+
+How to use random walker method to integrate GWAS and scDNAm for inferring regulatory variants?
