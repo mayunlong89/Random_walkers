@@ -4,7 +4,7 @@ This Python script was used for Random walk.
 
 We first constructed a RandomWalk algorithm, then import it into the randomwalk_visualization.py for visualizing the processes of Random Walk.
 
-Note: This is a temporary version.
+Note: This is a [temporary version](https://github.com/mayunlong89/Random_walkers).
 
 
 #2021-1-27
